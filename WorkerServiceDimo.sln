@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerServiceDimo", "WorkerServiceDimo\WorkerServiceDimo.csproj", "{59EA1905-DC09-4706-91FE-7E94A6A5B7EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59EA1905-DC09-4706-91FE-7E94A6A5B7EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59EA1905-DC09-4706-91FE-7E94A6A5B7EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59EA1905-DC09-4706-91FE-7E94A6A5B7EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59EA1905-DC09-4706-91FE-7E94A6A5B7EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED16EA08-66DF-4AF9-B353-8BAE0DFCC175}
+	EndGlobalSection
+EndGlobal
